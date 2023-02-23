@@ -15,21 +15,23 @@ const Categories = () => {
 
     return(
         <>
-        <h1>ASSUNTO</h1>
-        <ul>
-            {
-                categories.map((cat, index) => {
-                    return(
-                        <li key={index}>
-                            <DivCategories>
-                                <input type="checkbox"/>
-                                <p>{cat.title}</p>
-                            </DivCategories>
-                        </li>
-                    )
-                })
-            }
-        </ul>
+          <section>
+            <h1>ASSUNTO</h1>
+            <ul>
+                {
+                    categories.map((cat, index) => {
+                        return(
+                            <li key={index}>
+                                <DivCategories>
+                                    <input type="checkbox"/>
+                                    <p>{cat.title}</p>
+                                </DivCategories>
+                            </li>
+                        )
+                    })
+                }
+            </ul>
+          </section>
         </>
     )
 }

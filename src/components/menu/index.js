@@ -16,32 +16,47 @@ const Menu = () => {
 
     return(
         <>
-            <Section>
-              <img src={LogoImg} alt="logo" />
+            <Header>
+              <Img src={LogoImg} alt="logo" />
                 <Nav>
                     {
                         menu.map((men, index) => {
                             return(
                                 <li key={index}>
-                                    <a href="">{men.title}</a>
+                                    <A href=" " >{men.title}</A>
                                 </li>
                             )
                         })
                     }
                 </Nav>
-                <input type="search" />
-            </Section>
+                <Input type="search" />
+            </Header>
         </>
     )
 }
 
 export default Menu
 
-const Section = styled.header`
+const Header = styled.header`
    display: flex;
+   align-items: center;
+   justify-content: center;
+   gap: 165px;
+`
+
+const Img = styled.img`
+    width: 150px;
 `
 
 const Nav = styled.ul`
   display: flex;
   gap: 10px;
+`
+
+const A = styled.a`
+   padding: 10px;
+`
+
+const Input = styled.input`
+   padding: 10px
 `
