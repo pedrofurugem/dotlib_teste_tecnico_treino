@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+[![](https://dotlib.com/theme/img/logos/logo.png)](http://www.dotlib.com)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Nossa empresa
 
-## Available Scripts
+A Dot.Lib distribui conteúdo online científico e acadêmico a centenas de instituições espalhadas pela América Latina. Temos como parceiras algumas das principais editoras científicas nacionais e internacionais. Além de prover conteúdo, criamos soluções que atendem às necessidades de nossos clientes e editoras.
 
-In the project directory, you can run:
+# Descrição da vaga
 
-### `npm start`
+Buscamos um profissional que seja apaixonado por desenvolvimento, inovação e novas tecnologias, para integrar nosso time em projetos baseados em NodeJS, PHP, React.JS e React Native.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Diferenciais
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Equipe unida, divertida e apaixonada por hambúrgueres.
+- Cafeteira sempre cheia :P
+- TECH DAY - Evento trimestral de palestras sobre tecnologia
+- Friday's Talk - Bate papo discontraído sobre tecnologia, apresentação de POCs de estudos, etc
+- Última sexta feira do mês tem happy hour!!!!
+- Home office
+- O gerente às vezes paga o almoço
+- Emendas em feriados nacionais
 
-### `npm test`
+## Requisitos
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### **Obrigatórios:**
 
-### `npm run build`
+- Mínimo 1 ano de experiência em desenvolvimento de sites e sistemas em ReactJS
+- Redux e Hooks
+- Consumo de APIs RESTful
+- SASS e Flexbox
+- Conhecimentos em Docker
+- Controle de versões (GIT)
+- Conhecimentos em Linux
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### **Diferenciais:**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Conhecimentos em Typescript
+- Conhecimentos em Node.JS
+- Consumo de APIs em GraphQL
+- Conhecimentos em serviços AWS
+- Experiência em Scrum como metodologia ágil
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Contratação
 
-### `npm run eject`
+Regime: PJ
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Como se candidatar
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Para se candidatar, basta acessar a url e realizar o teste para a vaga:
+[https://github.com/dotlib/teste-desenvolvedor-reactjs](teste.md)
