@@ -1,8 +1,8 @@
 import Menu from './components/menu/index'
 import Books from './components/books/index.js'
 import Categories from './components/categories/index'
-import Footer from './components/footer/index'
 import Screen from './components/screen/index'
+import Footer from './components/footer/index'
 import { createGlobalStyle } from 'styled-components'
 
 function App() {
@@ -10,6 +10,7 @@ function App() {
     <>
       <GlobalStyle />
       <Screen />
+      <Footer />
     </>
   );
   }

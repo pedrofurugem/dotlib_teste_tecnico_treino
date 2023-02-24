@@ -52,12 +52,15 @@ export default Books
 const Ul = styled.ul`
    display flex;
    align-items: center;
+   justify-content: center;
    flex-wrap: wrap;
+   width: 55%;
+   margin-top: 40px;
 `
 
 const Img = styled.img`
-  width: 120px;
-  height: 150px;
+  width: 185px;
+  height: 215px;
 `
 
 const CardBook = styled.div`

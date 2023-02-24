@@ -41,8 +41,8 @@ const Header = styled.header`
    display: flex;
    align-items: center;
    justify-content: center;
-   gap: 165px;
-`
+   gap: 350px
+   `
 
 const Img = styled.img`
     width: 150px;
@@ -54,7 +54,7 @@ const Nav = styled.ul`
 `
 
 const A = styled.a`
-   padding: 10px;
+   padding: 2px;
 `
 
 const Input = styled.input`

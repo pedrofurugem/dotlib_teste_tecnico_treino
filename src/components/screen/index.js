@@ -1,7 +1,6 @@
 import Menu from '../menu/index'
 import Categories from '../categories/index'
 import Books from '../books/index'
-import Footer from '../footer/index'
 import styled from 'styled-components'
 
 const Screen = () => {
@@ -12,13 +11,10 @@ const Screen = () => {
          </Header>
 
          <Section>
-            <Categories />
-            <Books />
+                <Categories />
+                <Books />
          </Section>
 
-         <footer>
-           <Footer />
-         </footer>
         </>
     )
 }
@@ -26,10 +22,11 @@ const Screen = () => {
 export default Screen 
 
 const Header = styled.header`
-   
+   margin: 15px auto;
+   box-shadow: 0px 1px gray;
 `
 
 const Section = styled.section`
    display: flex;
-   
+   justify-content: center;
 `

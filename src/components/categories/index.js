@@ -24,7 +24,7 @@ const Categories = () => {
                             <li key={index}>
                                 <DivCategories>
                                     <input type="checkbox"/>
-                                    <p>{cat.title}</p>
+                                    <P>{cat.title}</P>
                                 </DivCategories>
                             </li>
                         )
@@ -40,4 +40,9 @@ export default Categories
 
 const DivCategories = styled.div`
    display: flex;
+`
+
+const P = styled.p`
+  padding: 5px;
+  text-transform: uppercase;
 `
